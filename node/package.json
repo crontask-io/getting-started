@@ -1,0 +1,13 @@
+{
+  "name": "print-google-page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodejs-file-downloader": "^4.7.1",
+    "request": "2.88.2"
+  }
+}
